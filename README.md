@@ -1,8 +1,10 @@
 # projects
 
-This repository is a series of notebooks that show data science projects completed through Dataquest and a few that I worked on from scratch.
+This repository is a series of notebooks that show data science projects completed through Dataquest and others worked on from scratch using public datasets.
 
 ## Projects completed as part of the Data Analyst and Data Science courses at [Dataquest.io](https://www.dataquest.io/).
+- [Guided Project: Predicting Stock Prices](https://github.com/nikshetty/projects/blob/master/predicting-stock-prices.ipynb)
+
 - [Project: Explore U.S. Births](https://github.com/dataquestio/solutions/blob/master/Mission9Solutions.ipynb)
 - [Project: Customizing Data Visualizations](https://github.com/dataquestio/solutions/blob/master/Mission103Solutions.ipynb)
 - [Guided Project: Star Wars survey](https://github.com/dataquestio/solutions/blob/master/Mission201Solution.ipynb)
@@ -21,3 +23,4 @@ This repository is a series of notebooks that show data science projects complet
 - [Guided Project: Analyzing Thanksgiving Dinner](https://github.com/dataquestio/solutions/blob/master/Mission219Solution.ipynb)
 - [Guided Project: Analyzing Wikipedia Pages](https://github.com/dataquestio/solutions/blob/master/Mission227Solutions.ipynb)
 - [Guided Project: Analyzing Stock Prices](https://github.com/dataquestio/solutions/blob/master/Mission177Solutions.ipynb)
+
