@@ -1,8 +1,7 @@
 # projects
 
-This repository is a series of notebooks that showcase data science projects that I have completed.
+This repository is a series of notebooks that showcase data science projects that I have worked on.
 
-## Project list
 - [Predicting Stock Prices](https://github.com/nikshetty/projects/blob/master/predicting-stock-prices.ipynb)
 - [Star Wars Survey](https://github.com/nikshetty/projects/blob/master/star-wars-survey.ipynb)
 - [Predicting Board Game Reviews](https://github.com/nikshetty/projects/blob/master/predicting-board-game-reviews.ipynb)
