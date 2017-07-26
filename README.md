@@ -1,6 +1,6 @@
 # projects
 
-This repository is a series of notebooks that showcase data science projects that I have worked on.
+This repository is a series of notebooks that showcase data science projects that I have worked on. All datasets used are public datasets and the links to these are provided in the notebooks. If you plan to run these notebooks in your machine, please ensure that the corresponding datasets reside in a folder named `data` created within the main folder where the notebook is present.
 
 - [Predicting Stock Prices](https://github.com/nikshetty/projects/blob/master/predicting-stock-prices.ipynb)
 - [Star Wars Survey](https://github.com/nikshetty/projects/blob/master/star-wars-survey.ipynb)
